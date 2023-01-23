@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	"github.com/payfazz/go-handler/v2"
-	"github.com/payfazz/go-handler/v2/defresponse"
+	"github.com/win-t/go-handler"
+	"github.com/win-t/go-handler/defresponse"
 )
 
 func ExampleOf() {
